@@ -1,6 +1,6 @@
-# projecta
+# Dart Flutter Project
 
-A new Flutter project.
+a motor mechanic booking app with Google Map API integration and firebase authentication and authorization along with all the Crud operations performed and saved in the backend database
 
 ## Getting Started
 
